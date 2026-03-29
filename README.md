@@ -1,13 +1,11 @@
-# arg_parse
+# arg-parse
 
-Argument parser — lightweight argparse alternative
+Lightweight argument parser with subcommands and validation.
 
 ## Usage
 
 ```bash
-python3 arg_parse.py --help
+python3 arg_parse.py test
 ```
 
-## License
-
-MIT
+Zero dependencies. Python 3.8+.
